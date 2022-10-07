@@ -21,7 +21,7 @@ class MyTabBar extends StatelessWidget {
           labelStyle: GoogleFonts.bebasNeue(
             fontSize: 32,
           ),
-          //isScrollable: true,
+          //isScrollable: tru,
           tabs: [
             Tab(
               child: Text(
